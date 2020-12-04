@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Heranca-Polimorfismo/1.0.0": {
+        "runtime": {
+          "Heranca-Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heranca-Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

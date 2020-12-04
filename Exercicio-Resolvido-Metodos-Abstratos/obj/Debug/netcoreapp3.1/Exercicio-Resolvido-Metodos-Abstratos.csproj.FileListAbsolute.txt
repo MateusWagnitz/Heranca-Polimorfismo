@@ -1,0 +1,12 @@
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.exe
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.dll
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.dll
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\10 - Herança e polimorfismo\Heranca-Polimorfismo\Exercicio-Resolvido-Metodos-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Metodos-Abstratos.genruntimeconfig.cache
